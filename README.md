@@ -1,5 +1,5 @@
 # CEREBRO: Contextual Evidence-Based Recruiter Optimization
-
+(AI-powered candidate ranking system for intelligent recruitment)
 A hybrid multi-signal candidate ranking system that ranks candidates the way a great recruiter would — by understanding *who fits the role*, not just matching keywords.
 
 ## Architecture Overview
